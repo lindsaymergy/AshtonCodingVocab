@@ -23,3 +23,13 @@
 | strictly typed           | Meaning                                                                                                                  | Example |
 | synchronous              | Meaning                                                                                                                  | Example |
 | vanilla                  | Meaning                                                                                                                  | Example |
+| synchronous              | Meaning                                                                                                                  | Example |
+| falsy                    | Meaning                                                                                                                  | Example |
+| truthy                   | Meaning                                                                                                                  | Example |
+| index                    | Meaning                                                                                                                  | Example |
+| shorthand                | Meaning                                                                                                                  | Example |
+| == vs ===                | Meaning                                                                                                                  | Example |
+| function hoisting        | Meaning                                                                                                                  | Example |
+| Math.random              | Meaning                                                                                                                  | Example |
+| NaN                      | Meaning                                                                                                                  | Example |
+| object literal           | Meaning                                                                                                                  | Example |
