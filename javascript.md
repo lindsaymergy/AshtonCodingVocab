@@ -4,11 +4,11 @@
 | api                      | A mechanism that enables two software components to communicate with each other using a set of definitions and protocols | Example |
 | api endpoint             | One end of a communication channel                                                                                       | Example |
 | array                    | An opject that holds multiple elements                                                                                   | Example |
-| async/asynchronous       | Meaning                                                                                                                  | Example |
-| backend                  | Meaning                                                                                                                  | Example |
-| build                    | Meaning                                                                                                                  | Example |
+| async/asynchronous       | Code that can run in the background without blocking the rest of the application                                         | Example |
+| backend                  | The part of an application that handles the data and logic behind the scenes                                             | Example |
+| build                    | A process that converts source code into a usable software product                                                       | Example |
 | build/release definition | Meaning                                                                                                                  | Example |
-| closure                  | Meaning                                                                                                                  | Example |
+| closure                  | A function that has access to variables in the outer scope even after the outer function has closed                      | Example |
 | command line/CLI         | Meaning                                                                                                                  | Example |
 | conditional              | Meaning                                                                                                                  | Example |
 | enum/enumeration         | Meaning                                                                                                                  | Example |
